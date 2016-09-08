@@ -1,0 +1,14 @@
+{
+	"name": "spine-dsfml",
+	"description": "",
+	"authors": ["Borislav Kosharov"],
+	"homepage": "http://github.com/nikibobi/spine-dsfml",
+	"license": "MIT",
+	"dependencies": {
+		"dsfml": ">=2.1.0",
+        "spine-d": "~test"
+	},
+	"targetType": "library",
+	"targetName": "spine-dsfml",
+	"targetPath": "lib"
+}
